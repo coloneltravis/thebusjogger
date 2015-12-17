@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>The Bus Jogger!</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Dec 2015 23:16:00 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2015 23:16:00 +0000</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Dec 2015 23:22:35 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2015 23:22:35 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 17 Dec 2015 23:15:47 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/17/welcome-to-jekyll.html</guid>
+        <link>/jekyll/update/2015/12/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2015/12/17/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
