@@ -4,10 +4,10 @@
     <title>The Bus Jogger!</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Dec 2015 23:22:35 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2015 23:22:35 +0000</lastBuildDate>
+    <link>/thebusjogger/</link>
+    <atom:link href="/thebusjogger/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Dec 2015 23:30:34 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2015 23:30:34 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 17 Dec 2015 23:15:47 +0000</pubDate>
-        <link>/jekyll/update/2015/12/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2015/12/17/welcome-to-jekyll.html</guid>
+        <link>/thebusjogger/jekyll/update/2015/12/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/thebusjogger/jekyll/update/2015/12/17/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
